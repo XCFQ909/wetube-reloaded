@@ -4,7 +4,6 @@ import {
   getEdit,
   postEdit,
   deleteVideo,
-  upload,
   getUpload,
   postUpload,
 } from "../controller/videoController";
